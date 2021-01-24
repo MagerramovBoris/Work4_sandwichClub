@@ -1,6 +1,6 @@
-package com.udacity.work4_sandwichClub.utils;
+package com.udacity.Work4_sandwichClub.utils;
 
-import com.udacity.work4_sandwichClub.model.Sandwich;
+import com.udacity.Work4_sandwichClub.model.Sandwich;
 
 public class JsonUtils {
 
